@@ -1,0 +1,74 @@
+python --version (versão) 
+
+print ('escrever alguma coisa')
+
+Import this (a historia do python)
+
+print ('7' + '4') (vai mostra um texto não vai fazer uma conta
+
+print ('ola' , 5)
+
+toda variavel é um objeto
+
+toda variavel recebe um valor
+
+variaveis (nome,peso,idade)
+
+o + so funciona com mensagens
+
+input (ler)
+--------------------------------------------------------------------------------------------
+Tipos primitivos
+
+int (7 - 4 0 3121) 
+float (4.5 0.076 -15.223 7.0)
+bool (True False)
+str ('olá' '7.5' '')
+--------------------------------------------------------------------------------------------
+
+print('a soma vale {}'.format{s})
+--------------------------------------------------------------------------------------------
+
+Operadores aritméticos
++ adição
+- subtração
+* Multiplicação 
+/ Divisção
+** potencia
+// divisão interira
+% modulo ou resto da divisão
+
+exemplo
+5+2== 7
+5-2== 3
+5*2== 10
+5/2== 2.5
+5**2==25 
+5//2==(2)-> divisão inteira 
+5%2==(1) -> resto da divisão
+
+ordem de precedência
+1()
+2**
+3 * / // %
+4 + -
+
+--------------------------------------------------------------------------------------------
+
+n1 =int(input('Digite um valo: '))
+
+n2 =int(input('Digite o segundo valor: '))
+
+s=n1+n2
+
+m=n1*n2
+d=n1/n2
+di=n1//n2
+e=n1 ** n2
+print('A soma é {},\n o produto é {}, e a divisão é {}'.format(s, m, d end =' '))
+print('Divisão Inteira {},e o potencia é {:.3}'.format(d, e))
+
+--------------------------------------------------------------------------------------
+
+
+

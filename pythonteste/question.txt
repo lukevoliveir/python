@@ -3,6 +3,7 @@ Criar um script em python que leia o nome de uma pessoa e mostre uma mensagem de
 nome=input('Qual é seu nome?')
 
  print('Olá tudo bem ' + nome) 
+--------------------------------------------------------------------------------------------
 
 Criar um script em python que leia o dia o mes e o ano de nascimento de uma pessoa e mostre uma mesagem a data formada
 
@@ -15,6 +16,101 @@ ano=input('qual ano você nasceu?')
 
 
 print('Você nasceu no dia ' , dia , ' de ' , mes , ' de ', ano)
+--------------------------------------------------------------------------------------------
 
 Criar um script em python que leia dois números e tente mostrar a soma entre eles
+
+n1 =int(input('Digite um valo: '))
+
+n2 =int(input('Digite o segundo valor: '))
+
+s=n1+n2
+
+//print('a soma entre ',  n1, ' e ', n2 , ' vale ' , s)
+print('A soma entre {} e {} vale {}'.format(n1, n2, s))
+--------------------------------------------------------------------------------------------
+crie um programa que leia dois numero e mostre a soma entre ele
+
+n1 =int(input('Digite um valo: '))
+
+n2 =int(input('Digite o segundo valor: '))
+
+s=n1+n2
+
+//print('a soma entre ',  n1, ' e ', n2 , ' vale ' , s)
+print('A soma entre {} e {} vale {}'.format(n1, n2, s))
+
+--------------------------------------------------------------------------------------------
+
+faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+
+
+--------------------------------------------------------------------------------------------
+
+crie um algoritmo que leia um numero e moste o seu dobro triplo e a raiz quadrada
+
+
+--------------------------------------------------------------------------------------------
+
+desenvolva um programa que leia as duas notas de um aluno, calule e mostre sua média
+
+
+
+--------------------------------------------------------------------------------------------
+
+escreva um programa que leia um valor em metros e o exia convertido em centimetros e milimetros
+
+
+
+--------------------------------------------------------------------------------------------
+
+faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada.
+
+
+
+--------------------------------------------------------------------------------------------
+
+crie um progama que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares
+ela pode comprar
+
+considere 
+US$1.00=R$ 3.27
+
+--------------------------------------------------------------------------------------------
+
+faça um programa que lei a largura e a altura de uma parede em metrosm calcule a sua área e a quantidade de tinta necessario para pinta-la, sabendo que cada lintro de tinta, pinta uma área de 2m²
+
+
+--------------------------------------------------------------------------------------------
+
+faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5%de desconto.
+
+
+
+--------------------------------------------------------------------------------------------
+
+faça um algoritmo que leia o salário de um funcionario e mostre seu novo salário, com 15% de aumento.
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
