@@ -1,0 +1,19 @@
+python --version (versão) 
+
+print ('escrever alguma coisa')
+
+Import this (a historia do python)
+
+print ('7' + '4') (vai mostra um texto não vai fazer uma conta
+
+print ('ola' , 5)
+
+toda variavel é um objeto
+
+toda variavel recebe um valor
+
+variaveis (nome,peso,idade)
+
+o + so funciona com mensagens
+
+input (ler)
